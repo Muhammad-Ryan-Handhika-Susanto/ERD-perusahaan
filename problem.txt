@@ -1,0 +1,7 @@
+# HALAMAN LOGIN
+1. Kenapa jika menggunakan password_verify(), data password nya selalu salah? (kesalahannya ada di halaman login) -> SOLVE
+2. nama pelapor yang tertulis pada saat membuat laporan pengaduan adalah nama yang nik nya tercantum secara manual. coba tanya gimana caranya mengambil nik secara otomatis sesuai id_pengaduan? (kesalahannya ada di halaman proses_pengaduan) -> SOLVE
+3. gimana caranya memisahkan register untuk masyarakat dan admin? 
+4. peringatan ubah menjadi warna kuning
+5. pengaduan yang di buat ini di khususkan untuk pelajar, dan coba ubah kata kata di dalamnya itu menjadi kata kata yang di pergunakan untuk remaja.
+6. 

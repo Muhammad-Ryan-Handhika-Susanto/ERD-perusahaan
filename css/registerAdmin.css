@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fff;
+}
+.container{
+    background: #FAD6A5;
+    border: #A86464 solid 10px;
+    width: 538px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+}
+.logo{
+    width: 136px;
+    height: 128px;
+    background: #F1DEC9;
+    border: #A86464 solid 5px;
+    margin: auto;
+    background-image: url(../img/logo.png);
+    background-size: cover;
+    position: relative;
+    top: -70px;
+}
+h1{
+    text-align: center;
+    color: #A86464;
+    position: relative;
+    font-size: 40px;
+    top: -50px;
+}
+.inputData{
+    text-align: center;
+    font-size: 24px;
+    color: #A86464;
+    position: relative;
+    top: -25px;
+}
+.inputData label{
+    font-size: 24px;
+    color: #A86464;
+    position: absolute;
+    left: 100px;
+}
+.inputData input{
+    width: 290px;
+    height: 32px;
+    border-radius: 0px 10px 10px 0px;
+    border: #A86464 solid 3px;
+    margin-bottom: 10px;
+    color: #A86464;
+    font-size: 20px;
+    outline: none;
+}
+.inputData .user1{
+    background: #A86464;
+    width: 30px;
+    height: 32px;   
+    position: absolute;
+    left: 84px;
+    top: 20;
+    background-image: url(../img/logo.png);
+    background-size: cover;
+}
+.inputData .user2{
+    background: #A86464;
+    width: 30px;
+    height: 32px;   
+    position: absolute;
+    left: 84px;
+    top: 97px;
+    background-image: url(../img/logo.png);
+    background-size: cover;
+}
+.inputData .pass{
+    background: #A86464;
+    width: 30px;
+    height: 32px;   
+    position: absolute;
+    left: 84px;
+    top: 166.5px;
+    background-image: url(../img/logo.png);
+    background-size: cover;
+}
+.inputData .telp{
+    background: #A86464;
+    width: 30px;
+    height: 32px;
+    position: absolute;
+    left: 84px;
+    top: 236px;
+    background-image: url(../img/password.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.inputData .btn{
+    width: 157px;
+    height: 35px;
+    border: #A86464 solid 3px;
+    background: #fff;
+    border-radius: 20px;
+    font-size: 24px;
+    color: #A86464;
+}
+.inputData .btn:hover{
+    cursor: pointer;
+}

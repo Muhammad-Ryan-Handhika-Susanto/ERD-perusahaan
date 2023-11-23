@@ -1,0 +1,47 @@
+.container{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+    background: greenyellow;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+.picture{  
+    width: 90%;
+    margin: auto; 
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 0px 0px 10px 10px;
+}
+.picture .picture1{
+    width: 100%;
+}
+.picture .picture1 .logo{
+    width: 40%;
+    float: right;
+    position: absolute;
+    right: 10px;
+}
+.picture .picture1 .keterangan{
+    width: 60%;
+    height: 28rem;
+    text-align: justify;
+    font-size: 20px;
+    padding: 70px;
+}
+.picture .picture2{
+    width: 100%;
+}
+.picture .picture2 .logo{
+    width: 40%;
+}
+.picture .picture2 .keterangan{
+    width: 60%;
+    text-align: justify;
+    font-size: 20px;
+    float: right;
+    position: relative;
+    top: -300px;
+}
